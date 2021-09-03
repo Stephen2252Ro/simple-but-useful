@@ -1,4 +1,6 @@
 # simple-but-useful
 #### author is not me
 #### I am a collector.
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=Stephen2252Ro/simple-but-useful)
+[![Downloads](http://pepy.tech/badge/simple-but-useful)](http://pepy.tech/count/simple-but-useful)
+[![Build Status](https://travis-ci.comStephen2252Ro/simple-but-useful/.svg?branch=main)](https://travis-ci.com/Stephen2252Ro/simple-but-useful)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1719da4d7df5455d8dbb4340c428f851)](https://www.codacy.com/app/Stephen2252Ro/simple-but-useful?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alichtman/shallow-backup&amp;utm_campaign=Badge_Grade)
